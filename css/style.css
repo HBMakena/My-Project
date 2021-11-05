@@ -17,3 +17,7 @@ img{
     height: 450px;
     width: 400px;
 }
+.author {
+    color: green;
+    font-style: oblique;
+}
