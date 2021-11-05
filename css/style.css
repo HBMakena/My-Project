@@ -1,10 +1,17 @@
 h1 {
-    color: blue;
+    color: red;
     font-style: italic;
+    font-size: larger;
 }
 h2 {
     color: cyan;
     font-style: italic;
+    font-size: larger;
+}
+h3 {
+    color: cyan;
+    font-style: italic;
+    font-size: larger;
 }
 img{
     height: 450px;
