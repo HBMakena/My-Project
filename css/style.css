@@ -20,4 +20,11 @@ img{
 .author {
     color: green;
     font-style: oblique;
+    float: left;
+}
+h4 {
+    font-size: larger;
+}
+#line1 {
+    color: blue;
 }
