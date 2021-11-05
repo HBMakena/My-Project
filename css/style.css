@@ -21,6 +21,7 @@ img{
     color: green;
     font-style: oblique;
     border: 4px solid black;
+    padding: 6px;
 }
 h4 {
     font-size: larger;
