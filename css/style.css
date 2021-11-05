@@ -23,6 +23,7 @@ img{
     border: 4px solid black;
     padding: 6px;
     margin: 40px;
+    float: ;
 }
 h4 {
     font-size: larger;
@@ -37,7 +38,6 @@ h4 {
 .line2 {
     color: red;
     font-size: x-large;
-    float: inline-end;
 }
 .unimportant {
     background-color: sienna;
