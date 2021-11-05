@@ -2,6 +2,10 @@ h1 {
     color: blue;
     font-style: italic;
 }
+h2 {
+    color: cyan;
+    font-style: italic;
+}
 img{
     height: 450px;
     width: 400px;
