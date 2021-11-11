@@ -14,6 +14,5 @@ My Project
 ## Support and contact details
 {If you run into any issues or have any concerns you can reach me via makenahappiness97@gmail.com and we will try to solve the issue.}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
 This is under the [MIT](LICENSE) license
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {2021}
