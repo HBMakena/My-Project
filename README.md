@@ -6,7 +6,7 @@ My Project
 ## Setup/Installation Requirements
 * Clone the repo {git clone https://github.com/HBMakena/My-Project.git}
 ## Live link
-
+ https://hbmakena.github.io/My-Project/
 ## Known Bugs
 { if any is detected i will let you know.}
 ## Technologies Used
